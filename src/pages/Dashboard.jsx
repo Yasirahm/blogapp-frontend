@@ -6,7 +6,7 @@ function Dashboard() {
     <div className="min-h-screen flex bg-gray-100">
 
       {/* Sidebar */}
-      <Sidebar />
+     
 
       {/* Main Content */}
       <main className="flex-1 p-4 sm:p-6 md:p-10 overflow-x-hidden">
